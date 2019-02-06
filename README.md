@@ -7,6 +7,9 @@
 ## View project
 https://milosrancic.github.io/reactjs-todo-app
 
+### Technologies
+HTML5, CSS3, JavaScript, ReactJS
+
 ### Installation
 1. Fork/clone/download the repo and run `npm install` inside the folder.
 2. Run `npm start`.
