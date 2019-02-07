@@ -60,3 +60,7 @@ ul.theList {
   background-color: pink;
   cursor: pointer;
 }
+
+button:focus {
+  outline: 0;
+}
