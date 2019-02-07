@@ -52,6 +52,8 @@ class App extends React.Component {
               ref={(a) => this._inputElement = a} 
               type="text"
               placeholder="add new task"
+              onFocus={(e) => e.target.placeholder = ""}
+              onBlur={(e) => e.target.placeholder = "add new task"}
             />
             <button type="submit">add</button>
           </form>
