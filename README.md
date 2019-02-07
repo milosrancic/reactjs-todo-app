@@ -1,9 +1,6 @@
 # ReactJS Todo App
 
 
-**ReactJS Todo App** as part of Front End Libraries cirriculum at [freeCodeCamp](https://www.freecodecamp.org/)
-
-
 ## View project
 https://milosrancic.github.io/reactjs-todo-app
 
