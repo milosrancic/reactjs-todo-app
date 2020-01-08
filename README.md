@@ -4,6 +4,10 @@
 ## View project
 https://milosrancic.github.io/reactjs-todo-app
 
+### Screenshot
+
+[![Todo-App.png](https://i.postimg.cc/NFFC59m9/Todo-App.png)](https://postimg.cc/dZMjf0Ww)
+
 ### Technologies
 HTML5, CSS3, JavaScript, ReactJS
 
